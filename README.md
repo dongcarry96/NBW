@@ -14,15 +14,6 @@ NBW는 도서이커머스 웹사이트로 개발 기간은 2022-10-03 ~ 2022-11-
 <li>🔥<a href="http://13.125.246.191/home">배포주소</a></li>
 </ul>
 
-## 팀원소개
-<ul>
-  <li><a href="https://github.com/dongcarry96">김동현</a>&nbsp;&nbsp;Donghyeon kim</br></li>
-  <li><a href="https://github.com/odong2">김민준</a>&nbsp;&nbsp;Minjun Kim</br></li>
-  <li><a href="https://github.com/jonggukback">백종국</a>&nbsp;&nbsp;Jonggook Back</br></li>
-  <li><a href="https://github.com/yuri818">이유리</a>&nbsp;&nbsp;Yuri Lee</br></li>
-  <li><a href="https://github.com/congs00n">정채은</a>&nbsp;&nbsp;Chaeeun Jeong </br></li>
-</ul>
-<p align="center"><img width="800" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/204135830-49452feb-523f-4de5-82c3-4d9c969137cd.png"></p>
 
 
 ## ERD
