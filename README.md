@@ -8,7 +8,7 @@ NBW는 도서이커머스 웹사이트로 개발 기간은 2022-10-03 ~ 2022-11-
 
 
 
-##  <img width="30" height="30" src="https://user-images.githubusercontent.com/95892601/204138950-40ec2ebd-fb00-4e3b-b3db-75ba7fe8f156.png">시연영상 및 회고록
+##  <img width="30" height="30" src="https://user-images.githubusercontent.com/95892601/204138950-40ec2ebd-fb00-4e3b-b3db-75ba7fe8f156.png">시연영상
 <ul>
 <li>🎥<a href="https://www.youtube.com/watch?v=Z4p-AV51g2k">시연영상 바로가기</a></li>
 </ul>
